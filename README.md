@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
 <a href="https://github.com/akashvenkey/WEKA">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=064E3B,047857,10B981&height=220&section=header&text=WEKA%20Data%20Mining%20Lab&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Classification%2C%20Clustering%2C%20Association%20Rules%20%26%20ARFF%20Pipelines&descSize=16&descAlignY=60&descAlign=50" alt="WEKA Data Mining Lab Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:047857,100:10B981&height=220&section=header&text=WEKA%20Data%20Mining%20Lab&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Classification%2C%20Clustering%2C%20Association%20Rules%20and%20ARFF%20Pipelines&descSize=16&descAlignY=60&descAlign=50" alt="WEKA Data Mining Lab Banner" width="100%" />
 </a>
 
 
@@ -177,7 +177,7 @@ Contributions of new ARFF datasets, experimental scripts, and classification com
 <div align="center">
 
 <a href="https://github.com/akashvenkey/WEKA">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=064E3B,047857,10B981&height=100&section=footer" alt="Footer Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:047857,100:10B981&height=100&section=footer" alt="Footer Banner" width="100%" />
 </a>
 
 
