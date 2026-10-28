@@ -1,6 +1,15 @@
 ﻿<div align="center">
 
+<a href="https://github.com/akashvenkey/WEKA">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=064E3B,047857,10B981&height=220&section=header&text=WEKA%20Data%20Mining%20Lab&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Classification%2C%20Clustering%2C%20Association%20Rules%20%26%20ARFF%20Pipelines&descSize=16&descAlignY=60&descAlign=50" alt="WEKA Data Mining Lab Banner" width="100%" />
+</a>
+
+
+
+### 🔗 **Project Source Link:** [https://github.com/akashvenkey/WEKA](https://github.com/akashvenkey/WEKA)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-github.com%2Fakashvenkey%2FWEKA-blue?style=for-the-badge&logo=github)](https://github.com/akashvenkey/WEKA)
+[![Clone URL](https://img.shields.io/badge/Clone-git_clone-success?style=for-the-badge&logo=git)](https://github.com/akashvenkey/WEKA.git)
 
 [![WEKA](https://img.shields.io/badge/WEKA-3.8%2B-047857?style=for-the-badge&logo=java&logoColor=white)](https://waikato.github.io/weka-wiki/)
 [![Java](https://img.shields.io/badge/Java-JDK_11%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
@@ -167,6 +176,15 @@ Contributions of new ARFF datasets, experimental scripts, and classification com
 
 <div align="center">
 
+<a href="https://github.com/akashvenkey/WEKA">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=064E3B,047857,10B981&height=100&section=footer" alt="Footer Banner" width="100%" />
+</a>
+
+
+
+### 🔗 **Project Source Link:** [https://github.com/akashvenkey/WEKA](https://github.com/akashvenkey/WEKA)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-github.com%2Fakashvenkey%2FWEKA-blue?style=for-the-badge&logo=github)](https://github.com/akashvenkey/WEKA)
+[![Clone URL](https://img.shields.io/badge/Clone-git_clone-success?style=for-the-badge&logo=git)](https://github.com/akashvenkey/WEKA.git)
 
 </div>
